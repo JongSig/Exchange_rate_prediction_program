@@ -123,13 +123,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="DataLoader.h" />
     <ClInclude Include="HMM.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="normalization.h" />
     <ClInclude Include="ParallelHMM.h" />
+    <ClInclude Include="ResultWriter.h" />
     <ClInclude Include="SerialHMM.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DataLoader.cpp" />
+    <ClCompile Include="HMM.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="normalization.cpp" />
+    <ClCompile Include="ParallelHMM.cpp" />
+    <ClCompile Include="ResultWriter.cpp" />
+    <ClCompile Include="SerialHMM.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

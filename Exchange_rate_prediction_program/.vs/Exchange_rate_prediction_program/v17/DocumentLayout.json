@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\SerialHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\SerialHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ResultWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\ResultWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ResultWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\ResultWriter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ParallelHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\ParallelHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ParallelHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\ParallelHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\normalization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\normalization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\normalization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\normalization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\HMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\HMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\DataLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\DataLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\HMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\HMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\DataLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\DataLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53432A3E-F440-4ABB-8945-DB151E013D7F}|Exchange_rate_prediction_program\\Exchange_rate_prediction_program.vcxproj|solutionrelative:Exchange_rate_prediction_program\\SerialHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +71,181 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.cpp",
-              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\main.cpp",
-              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.cpp",
-              "RelativeToolTip": "Exchange_rate_prediction_program\\main.cpp",
+              "Title": "SerialHMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.cpp",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\SerialHMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.cpp",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\SerialHMM.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-10T07:09:39.866Z",
+              "WhenOpened": "2026-04-10T07:32:08.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SerialHMM.h",
-              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.h",
-              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\SerialHMM.h",
-              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.h",
-              "RelativeToolTip": "Exchange_rate_prediction_program\\SerialHMM.h",
+              "Title": "ResultWriter.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ResultWriter.cpp",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\ResultWriter.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ResultWriter.cpp",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\ResultWriter.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-10T07:09:29.414Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T07:31:51.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParallelHMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ParallelHMM.cpp",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\ParallelHMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ParallelHMM.cpp",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\ParallelHMM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T07:31:24.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "normalization.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\normalization.cpp",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\normalization.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\normalization.cpp",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\normalization.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T07:30:38.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\HMM.cpp",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\HMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\HMM.cpp",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\HMM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T07:30:15.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataLoader.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\DataLoader.cpp",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\DataLoader.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\DataLoader.cpp",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\DataLoader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T07:30:07.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ResultWriter.h",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ResultWriter.h",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\ResultWriter.h",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ResultWriter.h",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\ResultWriter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T07:29:39.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "normalization.h",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\normalization.h",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\normalization.h",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\normalization.h",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\normalization.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T07:28:47.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataLoader.h",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\DataLoader.h",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\DataLoader.h",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\DataLoader.h",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\DataLoader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T07:14:25.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ParallelHMM.h",
               "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ParallelHMM.h",
               "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\ParallelHMM.h",
               "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\ParallelHMM.h",
               "RelativeToolTip": "Exchange_rate_prediction_program\\ParallelHMM.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-10T07:09:16.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.cpp",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\main.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.cpp",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T07:09:39.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SerialHMM.h",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.h",
+              "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\SerialHMM.h",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\SerialHMM.h",
+              "RelativeToolTip": "Exchange_rate_prediction_program\\SerialHMM.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T07:09:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HMM.h",
               "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\HMM.h",
               "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\HMM.h",
               "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\HMM.h",
               "RelativeToolTip": "Exchange_rate_prediction_program\\HMM.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-10T07:08:48.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "main.h",
               "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.h",
               "RelativeDocumentMoniker": "Exchange_rate_prediction_program\\main.h",
               "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\Exchange_rate_prediction_program\\main.h",
               "RelativeToolTip": "Exchange_rate_prediction_program\\main.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-10T07:08:06.742Z",
               "EditorCaption": ""
