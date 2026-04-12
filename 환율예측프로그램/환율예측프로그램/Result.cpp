@@ -1,0 +1,4 @@
+
+void Result(void) {
+
+}

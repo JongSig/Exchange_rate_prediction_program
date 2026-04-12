@@ -1,0 +1,88 @@
+﻿  DataLoader.cpp
+  main.cpp
+  ParallelHMM.cpp
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\ParallelHMM.h(6,2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\ParallelHMM.h(6,2): warning C4183: 'ParallHMM': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,6): error C2259: 'HMM': 추상 클래스를 인스턴스화할 수 없습니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\HMM.h(17,7):
+      'HMM' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,6):
+      다음 멤버가 원인입니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,6):
+      'double HMM::forward(void)': abstract입니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\HMM.h(52,17):
+      'HMM::forward' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,6):
+      'void HMM::backward(void)': abstract입니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\HMM.h(57,15):
+      'HMM::backward' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,6):
+      'void HMM::BaumWelch(void)': abstract입니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\HMM.h(63,15):
+      'HMM::BaumWelch' 선언을 참조하십시오.
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,9): error C2259: 'HMM': 추상 클래스를 인스턴스화할 수 없습니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\HMM.h(17,7):
+      'HMM' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,9):
+      다음 멤버가 원인입니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,9):
+      'double HMM::forward(void)': abstract입니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\HMM.h(52,17):
+      'HMM::forward' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,9):
+      'void HMM::backward(void)': abstract입니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\HMM.h(57,15):
+      'HMM::backward' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\main.cpp(24,9):
+      'void HMM::BaumWelch(void)': abstract입니다.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\HMM.h(63,15):
+      'HMM::BaumWelch' 선언을 참조하십시오.
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\ParallelHMM.h(6,2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'ParallelHMM.cpp'을(를) 컴파일하는 중)
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\ParallelHMM.h(6,2): warning C4183: 'ParallHMM': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+  (소스 파일 'ParallelHMM.cpp'을(를) 컴파일하는 중)
+  
+  Result.cpp
+  SerialHMM.cpp
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(36,40): error C2065: 'N': 선언되지 않은 식별자입니다.
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(36,3): error C2660: 'memset': 함수는 2개의 인수를 사용하지 않습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h(63,15):
+      'memset' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(36,3):
+      인수 목록 '(double *, int)'을(를) 일치시키는 동안
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(37,45): error C2065: 'N': 선언되지 않은 식별자입니다.
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(37,9): error C2660: 'memset': 함수는 2개의 인수를 사용하지 않습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h(63,15):
+      'memset' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(37,9):
+      인수 목록 '(double *, int)'을(를) 일치시키는 동안
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(38,46): error C2065: 'N': 선언되지 않은 식별자입니다.
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(38,9): error C2660: 'memset': 함수는 2개의 인수를 사용하지 않습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h(63,15):
+      'memset' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(38,9):
+      인수 목록 '(double *, int)'을(를) 일치시키는 동안
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(45,37): error C2065: 'N': 선언되지 않은 식별자입니다.
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(45,41): error C2065: 'N': 선언되지 않은 식별자입니다.
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(45,3): error C2660: 'memset': 함수는 2개의 인수를 사용하지 않습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h(63,15):
+      'memset' 선언을 참조하십시오.
+      D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(45,3):
+      인수 목록 '(double *, int)'을(를) 일치시키는 동안
+  
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(123,3): error C2065: 'k': 선언되지 않은 식별자입니다.
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(124,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(179,22): error C2065: 'N': 선언되지 않은 식별자입니다.
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\SerialHMM.cpp(181,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  코드를 생성하고 있습니다...
+D:\Git-Directory\Exchange_rate_prediction_program\환율예측프로그램\환율예측프로그램\DataLoader.cpp(40,1): error C4716: 'DataLoader::loadCSV': 값을 반환해야 합니다.

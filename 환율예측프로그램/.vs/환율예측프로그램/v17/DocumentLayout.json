@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\ParallelHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\ParallelHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6AAFDB9-27E3-444F-8966-376857F8624D}|\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerialHMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.cpp",
+              "RelativeDocumentMoniker": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.cpp",
+              "RelativeToolTip": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-11T16:54:54.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerialHMM.h",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.h",
+              "RelativeDocumentMoniker": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.h",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.h",
+              "RelativeToolTip": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\SerialHMM.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-11T16:50:25.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HMM.h",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.h",
+              "RelativeDocumentMoniker": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.h",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.h",
+              "RelativeToolTip": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvx8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T16:43:28.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.cpp",
+              "RelativeDocumentMoniker": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.cpp",
+              "RelativeToolTip": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\HMM.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-11T04:12:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataLoader.h",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.h",
+              "RelativeDocumentMoniker": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.h",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.h",
+              "RelativeToolTip": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T08:26:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "RelativeDocumentMoniker": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "RelativeToolTip": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T08:18:44.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataLoader.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.cpp",
+              "RelativeDocumentMoniker": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.cpp",
+              "RelativeToolTip": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\DataLoader.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T08:28:41.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParallelHMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\ParallelHMM.cpp",
+              "RelativeDocumentMoniker": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\ParallelHMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\Exchange_rate_prediction_program\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\ParallelHMM.cpp",
+              "RelativeToolTip": "\uD658\uC728\uC608\uCE21\uD504\uB85C\uADF8\uB7A8\\ParallelHMM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-11T04:11:30.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
