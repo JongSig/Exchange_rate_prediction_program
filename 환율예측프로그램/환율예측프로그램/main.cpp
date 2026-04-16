@@ -17,11 +17,15 @@ int main(void) {
 	DataLoader loader;
 	
 	// 파일 읽는 부분
-	//loader.loadCSV();
+	loader.loadCSV("hmm_financial_data.csv");
 	loader.normalize();		// 데이터 정규화, 변화량 계산 + min-max 정규화
 
 	// states : 5, Observation : 금리차3, 환율3, 달러3 3x3x3 = 27
-	HMM hmm(5, 27);
-	hmm.initialize();		// 데이터 읽기, 파라미터 초기화, 관측 데이터 생성
+	SerialHMM HMM(5, 27, loader);
 
+	for (int i = 0; i < 20; i++) {
+		HMM.baumWelch();
+	}
+
+	HMM.predictNextState();
 }

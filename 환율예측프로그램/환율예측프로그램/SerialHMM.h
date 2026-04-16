@@ -9,7 +9,7 @@ private:
 	double** xi = nullptr;		// ÀüÀÌ È®·ü
 
 public:
-	SerialHMM(int states, int obs_dim);
+	SerialHMM(int states, int obs_dim, DataLoader& loader);
 	~SerialHMM();
 
 	double forward() override;
@@ -18,7 +18,7 @@ public:
 	void computeGamma();
 	void computeXi();
 
-	void baumWelch(); 
+	void baumWelch();
 
 	void predictNextState(double* next_state);
 };

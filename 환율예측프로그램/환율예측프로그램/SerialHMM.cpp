@@ -4,10 +4,9 @@
 
 #include "SerialHMM.h"
 
-SerialHMM::SerialHMM(int states, int obs_dim) : HMM(states, obs_dim) {
+SerialHMM::SerialHMM(int states, int obs_dim, DataLoader& loader) : HMM(states, obs_dim) {
 	
 	// 데이터 동적 할당
-	DataLoader loader;
 	data = loader.getData();
 	seq_len = loader.getSize();
 
@@ -59,16 +58,16 @@ SerialHMM::~SerialHMM() {
 	delete[] B;
 
 	for (int i = 0; i < seq_len; i++) {
-		delete alpha[i];
-		delete beta[i];
-		delete gamma[i];
+		delete[] alpha[i];
+		delete[] beta[i];
+		delete[] gamma[i];
 	}
 	delete[] alpha;
 	delete[] beta;
 	delete[] gamma;
 
 	for (int i = 0; i < seq_len - 1; i++) {
-		delete xi[i];
+		delete[] xi[i];
 	}
 	delete[] xi;
 }
@@ -120,7 +119,6 @@ void SerialHMM::backward() {
 				beta[t][i] += A[i][j] * B[j][obs[t + 1]] * beta[t + 1][j];
 			}
 		}
-		k
 	}
 }
 

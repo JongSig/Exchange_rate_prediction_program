@@ -60,6 +60,6 @@ public:
 	// - 반복적인 알고리즘으로, 현재 모델 파라미터 세타를 기준으로 
 	// "상태 점유 확률"을 추정하는 E-step과 추정된 정보를 바탕으로 
 	// 파라미터를 최적화 하는 M-step을 번갈아 수행
-	virtual void BaumWelch() = 0;
+	virtual void baumWelch() = 0;
 
 };

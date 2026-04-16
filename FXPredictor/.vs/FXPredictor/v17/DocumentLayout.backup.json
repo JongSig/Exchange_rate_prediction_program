@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git-Directory\\project\\PP\\FXPredictor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\ParallelHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\ParallelHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\ParallelHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\ParallelHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\SerialHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\SerialHMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\SerialHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\SerialHMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\DataLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\DataLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\DataLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\DataLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\HMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\HMM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\HMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93CCB870-8222-47AB-903B-289269C5FB73}|FXPredictor\\FXPredictor.vcxproj|solutionrelative:FXPredictor\\HMM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParallelHMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\ParallelHMM.cpp",
+              "RelativeDocumentMoniker": "FXPredictor\\ParallelHMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\ParallelHMM.cpp*",
+              "RelativeToolTip": "FXPredictor\\ParallelHMM.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-16T01:23:46.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParallelHMM.h",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\ParallelHMM.h",
+              "RelativeDocumentMoniker": "FXPredictor\\ParallelHMM.h",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\ParallelHMM.h*",
+              "RelativeToolTip": "FXPredictor\\ParallelHMM.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-16T01:21:40.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerialHMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\SerialHMM.cpp",
+              "RelativeDocumentMoniker": "FXPredictor\\SerialHMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\SerialHMM.cpp",
+              "RelativeToolTip": "FXPredictor\\SerialHMM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T14:46:37.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HMM.h",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\HMM.h",
+              "RelativeDocumentMoniker": "FXPredictor\\HMM.h",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\HMM.h",
+              "RelativeToolTip": "FXPredictor\\HMM.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-15T13:27:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\main.cpp",
+              "RelativeDocumentMoniker": "FXPredictor\\main.cpp",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\main.cpp*",
+              "RelativeToolTip": "FXPredictor\\main.cpp*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T12:50:53.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataLoader.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\DataLoader.cpp",
+              "RelativeDocumentMoniker": "FXPredictor\\DataLoader.cpp",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\DataLoader.cpp",
+              "RelativeToolTip": "FXPredictor\\DataLoader.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-16T00:07:30.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HMM.cpp",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\HMM.cpp",
+              "RelativeDocumentMoniker": "FXPredictor\\HMM.cpp",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\HMM.cpp",
+              "RelativeToolTip": "FXPredictor\\HMM.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T13:27:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataLoader.h",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\DataLoader.h",
+              "RelativeDocumentMoniker": "FXPredictor\\DataLoader.h",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\DataLoader.h",
+              "RelativeToolTip": "FXPredictor\\DataLoader.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-15T14:38:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SerialHMM.h",
+              "DocumentMoniker": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\SerialHMM.h",
+              "RelativeDocumentMoniker": "FXPredictor\\SerialHMM.h",
+              "ToolTip": "D:\\Git-Directory\\project\\PP\\FXPredictor\\FXPredictor\\SerialHMM.h",
+              "RelativeToolTip": "FXPredictor\\SerialHMM.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-15T14:21:10.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
